@@ -417,14 +417,14 @@ body {
   display: flex;
 }
 
-.our-container {
+.our-clients-image {
   border: 1px solid #afb1b8;
   border-radius: 4px;
 }
 
-.our-container:hover {
+.our-clients-image:hover {
   border: 1px solid #2196f3;
-  box-sizing: border-box;
+
   border-radius: 4px;
 }
 
