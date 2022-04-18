@@ -405,11 +405,13 @@ body {
   fill: #afb1b8;
 }
 
-.masters-soc-link:hover {
+.masters-soc-link:hover,
+.masters-soc-link:focus {
   background-color: var(--hover-text-color);
 }
 
-.masters-soc-link:hover .masters-soc-icon {
+.masters-soc-link:hover .masters-soc-icon,
+.masters-soc-link:focus .masters-soc-icon {
   fill: var(--white-color);
 }
 
